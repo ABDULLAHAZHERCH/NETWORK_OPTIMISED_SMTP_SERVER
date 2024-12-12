@@ -47,7 +47,7 @@ Future improvements include:
 ### **Usage**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/Network_Optimized_SMTP_Server.git
+   git clone https://github.com/ABDULLAHAZHERCH/NETWORK_OPTIMISED_SMTP_SERVER.git
    ```  
 2. Navigate to the project directory and set up dependencies.  
 3. Run the server and start sending emails securely!  
