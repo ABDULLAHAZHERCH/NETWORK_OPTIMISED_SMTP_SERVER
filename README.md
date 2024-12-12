@@ -1,4 +1,4 @@
-**# Network Optimized SMTP Server**  
+# ** Network Optimized SMTP Server**  
 
 ### **Introduction**  
 This project implements a custom SMTP server tailored for optimal email handling and communication. By enhancing the standard SMTP protocol, the server delivers additional functionality such as secure transmission, error management, and email filtering. It aims to bridge theoretical knowledge with practical use cases in networking and programming.
