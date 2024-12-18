@@ -18,7 +18,7 @@ This project implements a custom SMTP server tailored for optimal email handling
   - `smtplib`, `socket` for SMTP and networking.  
   - File handling libraries.  
   - OpenSSL for encryption.  
-- **Platform**: Localhost (with potential cloud deployment).  
+- **Platform**: StreamLit.  
 
 ### **System Architecture**  
 - **Client-Server Model**: 
@@ -54,7 +54,7 @@ Future improvements include:
 
 ### **Contributors**  
 - Fiza Amjad  
-- Abdullah Chaudry  
+- Abdullah Chaudhary  
 
 ### **License**  
 This project is open-source under the [MIT License](LICENSE).  
