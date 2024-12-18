@@ -17,8 +17,9 @@ This project implements a custom SMTP server tailored for optimal email handling
 - **Libraries**: 
   - `smtplib`, `socket` for SMTP and networking.  
   - File handling libraries.  
-  - OpenSSL for encryption.  
-- **Platform**: StreamLit.  
+  - OpenSSL for encryption.
+  - Streamlit  
+- **Platform**: Github Pages
 
 ### **System Architecture**  
 - **Client-Server Model**: 
